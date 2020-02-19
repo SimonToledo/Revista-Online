@@ -1,0 +1,22 @@
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.menu{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+
+    a, a:link, a:active, a:visited, a:hover {
+        text-decoration: none;
+      }
+
+}
